@@ -33,8 +33,8 @@ Now are following are the topics that you should prepare without fail.
    6. **Array**
       - <https://en.cppreference.com/w/cpp/container/array>
       - <http://www.cplusplus.com/reference/array/array/>
-3. **Multi Threading `(Very Important)`** - Always remember the C++11 Multi threading is just a OOPs based wrapper on pthread and is totally dependent on pthread library and hence you must have to link the pthread library with the code by add "-lpthread" to your makefile for compilation. Please google to see how to use them as there are plenty of examples available. I will send a my implementation of Ring Buffer code later which uses a lot of the C++11 features.
-   1. **Atomic `(Extremely Important)`**
+3. **Multi Threading** `(Very Important)` - Always remember the C++11 Multi threading is just a OOPs based wrapper on pthread and is totally dependent on pthread library and hence you must have to link the pthread library with the code by add "-lpthread" to your makefile for compilation. Please google to see how to use them as there are plenty of examples available. I will send a my implementation of Ring Buffer code later which uses a lot of the C++11 features.
+   1. **Atomic** `(Extremely Important)`
       - <https://en.cppreference.com/w/cpp/atomic/atomic>
       - <http://www.cplusplus.com/reference/atomic/>
    2. **Thread**
