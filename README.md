@@ -83,3 +83,9 @@ Now are following are the topics that you should prepare without fail.
 
 I hope I have covered every important topic w.r.t. C++11 in this document.
 Let me know if this helps.
+
+## About Author
+
+### **_Prakhar Mathur_**
+
+### LinkedIn - <https://www.linkedin.com/in/mathurprakhar>
