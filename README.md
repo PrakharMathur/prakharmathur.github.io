@@ -33,7 +33,9 @@ Now are following are the topics that you should prepare without fail.
    6. **Array**
       - <https://en.cppreference.com/w/cpp/container/array>
       - <http://www.cplusplus.com/reference/array/array/>
-3. **Multi Threading** `(Very Important)` - Always remember the C++11 Multi threading is just a OOPs based wrapper on pthread and is totally dependent on pthread library and hence you must have to link the pthread library with the code by add "-lpthread" to your makefile for compilation. Please google to see how to use them as there are plenty of examples available. I will send a my implementation of Ring Buffer code later which uses a lot of the C++11 features.
+3. **Container Details** - Following page gives complete details of each container in a tabular format. Along with when the iterator is invalidated, which API each container supports, etc.
+   - <https://en.cppreference.com/w/cpp/container>
+4. **Multi Threading** `(Very Important)` - Always remember the C++11 Multi threading is just a OOPs based wrapper on pthread and is totally dependent on pthread library and hence you must have to link the pthread library with the code by add "-lpthread" to your makefile for compilation. Please google to see how to use them as there are plenty of examples available. I will send a my implementation of Ring Buffer code later which uses a lot of the C++11 features.
    1. **Atomic** `(Extremely Important)`
       - <https://en.cppreference.com/w/cpp/atomic/atomic>
       - <http://www.cplusplus.com/reference/atomic/>
@@ -49,7 +51,7 @@ Now are following are the topics that you should prepare without fail.
    5. **Thread Local Storage** `(Very Important)`
       - <https://en.cppreference.com/w/cpp/keyword/thread_local>
       - <http://en.cppreference.com/w/cpp/language/storage_duration>
-4. **Smart Pointers** `(Extremely Important)` - You must understand clearly how these Smart Pointers are implemented internally. Refer this [link](http://www.codeproject.com/Articles/15351/Implementing-a-simple-smart-pointer-in-c). This implementation has few bugs but you will be able to understand the basic idea of how are they implemented and how they work.
+5. **Smart Pointers** `(Extremely Important)` - You must understand clearly how these Smart Pointers are implemented internally. Refer this [link](http://www.codeproject.com/Articles/15351/Implementing-a-simple-smart-pointer-in-c). This implementation has few bugs but you will be able to understand the basic idea of how are they implemented and how they work.
    1. **Auto Pointer** `(Deprecated)`- Remember this is deprecated in C++11 and have been replaced with Unique Pointer. So never say by mistake that you are using auto pointers in your code.
       - <https://en.cppreference.com/w/cpp/memory/auto_ptr>
       - <http://www.cplusplus.com/reference/memory/auto_ptr/>
@@ -62,12 +64,12 @@ Now are following are the topics that you should prepare without fail.
    4. **Weak Pointer**
       - <https://en.cppreference.com/w/cpp/memory/weak_ptr>
       - <http://www.cplusplus.com/reference/memory/weak_ptr/>
-5. **Chrono** - For performance analysis and tuning. Again this depends on the rt library and hence if you are using any feature of chrono then you must have to link the rt library with the code by add "-lrt" to your makefile for compilation.
+6. **Chrono** - For performance analysis and tuning. Again this depends on the rt library and hence if you are using any feature of chrono then you must have to link the rt library with the code by add "-lrt" to your makefile for compilation.
    - <https://en.cppreference.com/w/cpp/header/chrono>
    - <http://www.cplusplus.com/reference/chrono/>
-6. **Lambda Expressions**
+7. **Lambda Expressions**
    - <https://en.cppreference.com/w/cpp/language/lambda>
-7. **Miscellaneous** -
+8. **Miscellaneous** -
    1. Until C++11 by default the C++ compiler will provide 4 default functions to a class by default.
       1. Default Constructor.
       2. Destructor.
