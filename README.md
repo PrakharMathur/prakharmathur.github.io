@@ -1,10 +1,10 @@
 # Learning advanced features introduced since C++11
 
-Here is the list of items that have been introduced in C++11 and are frequently asked in Interviews of many Investment Banks.
+Here is the list of items that have been introduced since C++11 and are frequently asked in Interviews of many Investment Banks, big software companies and start ups.
 
 First follow this [link](http://www.codeproject.com/Articles/570638/Ten-Cplusplus-Features-Every-Cplusplus-Developer) to see some of the most important features that have been introduced as a part of C++11 and are frequently being used and being more precise must be used in all modern C++ applications.
 
-Now are following are the topics that you should prepare without fail.
+Now following are the topics that you should prepare without fail.
 
 1. **Move Semantics** - This is an important feature and you must understand how it works and why it is useful. Refer the links below.
    - <http://www.cprogramming.com/c++11/rvalue-references-and-move-semantics-in-c++11.html>
@@ -35,7 +35,7 @@ Now are following are the topics that you should prepare without fail.
       - <http://www.cplusplus.com/reference/array/array/>
 3. **Container Details** - Following page gives complete details of each container in a tabular format. Along with when the iterator is invalidated, which API each container supports, etc.
    - <https://en.cppreference.com/w/cpp/container>
-4. **Multi Threading** `(Very Important)` - Always remember the C++11 Multi threading is just a OOPs based wrapper on pthread and is totally dependent on pthread library and hence you must have to link the pthread library with the code by add "-lpthread" to your makefile for compilation. Please google to see how to use them as there are plenty of examples available. I will send a my implementation of Ring Buffer code later which uses a lot of the C++11 features.
+4. **Multi Threading** `(Very Important)` - Always remember the C++11 Multi threading is just a OOPs based wrapper on pthread and is totally dependent on pthread library and hence you must have to link the pthread library with the code by adding "-lpthread" to your makefile for compilation. Please google to see how to use them as there are plenty of examples available. I will link my implementation of Ring Buffer code later which uses a lot of the C++11 features.
    1. **Atomic** `(Extremely Important)`
       - <https://en.cppreference.com/w/cpp/atomic/atomic>
       - <http://www.cplusplus.com/reference/atomic/>
@@ -52,7 +52,7 @@ Now are following are the topics that you should prepare without fail.
       - <https://en.cppreference.com/w/cpp/keyword/thread_local>
       - <http://en.cppreference.com/w/cpp/language/storage_duration>
 5. **Smart Pointers** `(Extremely Important)` - You must understand clearly how these Smart Pointers are implemented internally. Refer this [link](http://www.codeproject.com/Articles/15351/Implementing-a-simple-smart-pointer-in-c). This implementation has few bugs but you will be able to understand the basic idea of how are they implemented and how they work.
-   1. **Auto Pointer** `(Deprecated)`- Remember this is deprecated in C++11 and have been replaced with Unique Pointer. So never say by mistake that you are using auto pointers in your code.
+   1. **Auto Pointer** `(Deprecated)`- Remember this is deprecated since C++11 and has been replaced with Unique Pointer. So never say by mistake that you are using auto pointers in your code.
       - <https://en.cppreference.com/w/cpp/memory/auto_ptr>
       - <http://www.cplusplus.com/reference/memory/auto_ptr/>
    2. **Unique Pointer** `(Extremely Important)`
@@ -64,18 +64,18 @@ Now are following are the topics that you should prepare without fail.
    4. **Weak Pointer**
       - <https://en.cppreference.com/w/cpp/memory/weak_ptr>
       - <http://www.cplusplus.com/reference/memory/weak_ptr/>
-6. **Chrono** - For performance analysis and tuning. Again this depends on the rt library and hence if you are using any feature of chrono then you must have to link the rt library with the code by add "-lrt" to your makefile for compilation.
+6. **Chrono** - For performance analysis and tuning. Again this depends on the rt library and hence if you are using any feature of chrono then you will have to link the rt library with the code by adding "-lrt" to your makefile for compilation.
    - <https://en.cppreference.com/w/cpp/header/chrono>
    - <http://www.cplusplus.com/reference/chrono/>
 7. **Lambda Expressions**
    - <https://en.cppreference.com/w/cpp/language/lambda>
 8. **Miscellaneous** -
-   1. Until C++11 by default the C++ compiler will provide 4 default functions to a class by default.
+   1. Until C++11 by default the C++ compiler provides 4 default functions to a class by default.
       1. Default Constructor.
       2. Destructor.
       3. Copy Constructor.
       4. Assignment Operator.
-   2. Since C++11 the compiler will provide 2 more default functions along with the existing 4 default functions to any class by default.
+   2. Since C++11 the compiler provides 2 more default functions along with the existing 4 default functions to any class by default.
       1. Default Constructor.
       2. Destructor.
       3. Copy Constructor.
