@@ -2,7 +2,7 @@
 
 Here is the list of items that have been introduced since C++11 and are frequently asked in Interviews of many Investment Banks, big software companies and start ups.
 
-First follow this [link](http://www.codeproject.com/Articles/570638/Ten-Cplusplus-Features-Every-Cplusplus-Developer) to see some of the most important features that have been introduced as a part of C++11 and are frequently being used and being more precise must be used in all modern C++ applications.
+First follow this [link](https://www.codeproject.com/articles/Ten-Cplusplus11-Features-Every-Cplusplus-Developer) to see some of the most important features that have been introduced as a part of C++11 and are frequently being used and being more precise must be used in all modern C++ applications.
 
 Now following are the topics that you should prepare without fail.
 
