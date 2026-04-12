@@ -3,8 +3,9 @@
 Following are list of important extensions that all the chrome and its derivatives should have for privacy and usefulness
 
 ## Must have extensions:
+
 | Extension Name                                  | URL                                                                                                         |
-| :---------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | uBlock Origin                                   | [Link](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)       |
 | DuckDuckGo Search & Tracker Protection          | [Link](https://chromewebstore.google.com/detail/duckduckgo-search-tracker/bkdgflcldnnnapblkhphbgpggdiikppg) |
 | Privacy Badger                                  | [Link](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)            |
@@ -17,11 +18,13 @@ Following are list of important extensions that all the chrome and its derivativ
 
 
 ## Good to have extensions:
+
 | Extension Name             | URL                                                                                                         |
-| :------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | Bitwarden Password Manager | [Link](https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb) |
 | NoScript                   | [Link](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)                  |
 | Proton VPN: Fast & Secure  | [Link](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa)    |
+
 
 ## About Author
 
