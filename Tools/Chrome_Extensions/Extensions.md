@@ -4,6 +4,8 @@ Following are list of important extensions that all the chrome and its derivativ
 
 ## Must have extensions:
 
+<div class="datatable-begin"></div>
+
 | Extension Name                                  | URL                                                                                                         |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | uBlock Origin                                   | [Link](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)       |
@@ -16,8 +18,11 @@ Following are list of important extensions that all the chrome and its derivativ
 | Decentraleyes                                   | [Link](https://chromewebstore.google.com/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj)             |
 | TrafficLight                                    | [Link](https://chromewebstore.google.com/detail/trafficlight/cfnpidifppmenkapgihekkeednfoenal)              |
 
+<div class="datatable-end"></div>
 
 ## Good to have extensions:
+
+<div class="datatable-begin"></div>
 
 | Extension Name             | URL                                                                                                         |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -25,6 +30,7 @@ Following are list of important extensions that all the chrome and its derivativ
 | NoScript                   | [Link](https://chromewebstore.google.com/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm)                  |
 | Proton VPN: Fast & Secure  | [Link](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa)    |
 
+<div class="datatable-end"></div>
 
 ## About Author
 
